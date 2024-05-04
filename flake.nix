@@ -5,5 +5,5 @@
       description = "A python project using poetry2nix with direnv environment";
     };
     templates.default = self.templates.app;
-  }
+  };
 }
